@@ -1,0 +1,124 @@
+{
+  "mahasiswa" :
+ [{
+  "id": 1,
+  "name": "Maye Romme",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Gabriello Biaggi",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Quintin Billison",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Sunny Greder",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Leonanie Deighan",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Bertie McNirlin",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Delmer Brolly",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Burg Spurrier",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Suki Tilt",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Fons Duckham",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Thurston Durston",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Deeann Ebbotts",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Elias Furmonger",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "name": "Shirlene Lamey",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Vaughan Gonthard",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Emiline Lodeke",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Witty Jursch",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Isidore Trowsdall",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Humfried Raubenheimer",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Florentia Eccleshare",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Mikaela Murrthum",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Mathe More",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Guillaume Hardeman",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Janka Leythley",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "William Buswell",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Papageno O'Fallon",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Julia Keddle",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Lew Griffen",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Pauly Bagott",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Alberik Helin",
+  "gender": "Male"
+}]
+}
